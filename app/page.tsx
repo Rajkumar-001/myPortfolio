@@ -16,11 +16,12 @@ export default function Home() {
           <li className="mb-2">
             Get started by editing{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
+              app/page.
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>HGello dear
+            .</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
